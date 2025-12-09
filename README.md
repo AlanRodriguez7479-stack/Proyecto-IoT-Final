@@ -97,4 +97,7 @@ Esta es tu bitácora o registro de auditoría.
 
 <img width="1363" height="617" alt="cd25e2ce-1dc5-441b-a07d-2d3056ea8e4f" src="https://github.com/user-attachments/assets/9e76c27d-77bf-4c13-854c-837ff2a4e88f" />
 
+Arquitectura
+-
+
 Muestra el enfoque técnico y las distintas tecnologías que usa.
