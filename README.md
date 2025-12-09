@@ -3,6 +3,34 @@
 
 <img width="1084" height="603" alt="unnamed" src="https://github.com/user-attachments/assets/e65d7000-5a71-4d32-b775-0678936dce91" />
 
+El Panel de Control Principal
+
+Esta es la pantalla "home" donde pasarás la mayor parte del tiempo. Su función es configurar y ejecutar el terremoto virtual.
+
+Tarjetas de Resumen (Arriba): Te dan un vistazo rápido del estado actual antes y después de la simulación.
+
+Edificios Analizados: Cuántos edificios están en la sesión.
+
+Puntos Críticos / Daño Estimado / Costo: Al inicio estarán en 0, pero se actualizarán en cuanto ejecutes la simulación.
+
+Panel Izquierdo (Controles):
+
+Seleccionar Edificio: Un menú desplegable para elegir qué infraestructura vas a someter a prueba (ej. "Prueba"). Muestra un resumen rápido de sus características (Residencial, 5 pisos, Año 2000).
+
+Parámetros del Sismo: Aquí tú tienes el control. Puedes usar los deslizadores (sliders) para ajustar:
+
+Magnitud (Richter): La potencia del sismo (ej. 5.5).
+
+Profundidad (km): Qué tan profundo es el hipocentro.
+
+Duración (s): Cuánto tiempo dura el movimiento.
+
+PGA Estimado: Mientras mueves los sliders, este número azul cambia automáticamente. Es la "Aceleración Pico del Suelo"; indica qué tan fuerte se sentirá la sacudida en la base del edificio.
+
+Botón "Iniciar Simulación": El botón naranja que activa el cálculo matemático y visual.
+
+Panel Central (Visualización 3D): Un espacio oscuro reservado para mostrar el modelo 3D de tu edificio. Al simular, aquí verás cómo reacciona la estructura.
+
 <img width="1319" height="474" alt="1d29425b-dbcf-45ad-bbb0-3a7b78492cde" src="https://github.com/user-attachments/assets/1f337dfe-7060-4c2c-a65c-ac87baa1d0d0" />
 
 <img width="1345" height="389" alt="c61bd00e-51df-4c22-a306-966111b8613c" src="https://github.com/user-attachments/assets/bfebf309-749c-479b-a30c-9433a753f8e8" />
